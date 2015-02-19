@@ -1,7 +1,5 @@
-# TidyDataset_Proj2
-Getting and Cleaning Data - Assignment 2
-
 # Name of the Project: TidyDataSet 
+Getting and Cleaning Data - Assignment 2
 ##Source: Wearable Computing
 
 ##File Name --> Purpose of the file
@@ -10,7 +8,9 @@ Getting and Cleaning Data - Assignment 2
 3. CodePage.md -> This markdown file has the details of the variables used, the data and the transformations used to cleanup the dataset.
 
 ######Prerequisites - Download and install the below packages in R Studio. 
-1.Plyr
-2.Dplyr
-3.reshape2
-4.downloader
+1. Plyr
+2. Dplyr
+3. reshape2
+4. downloader
+
+Set the working directory in the R Studio and then run the run_analysis.R script.
